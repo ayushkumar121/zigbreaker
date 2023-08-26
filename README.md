@@ -1,8 +1,7 @@
-# Rayzig
+# ZigBreaker
 ===========
 
-Zig + Raylib rest
-
+Breakout clone made with zig and raylib
 
 References
 ===========
