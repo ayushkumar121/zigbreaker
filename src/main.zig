@@ -10,7 +10,7 @@ const width = 800;
 const height = 600;
 
 pub fn main() !void {
-    c.InitWindow(width, height, "Hello World");
+    c.InitWindow(width, height, "ZigBreaker");
     c.SetTargetFPS(60);
 
     defer c.CloseWindow();
